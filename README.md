@@ -2,6 +2,6 @@
 
 ### how to run? (Linux)
 
- > cd *executables*
+ > cd *executable*
  
  > ./guessing_game
